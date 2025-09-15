@@ -86,7 +86,7 @@ int main() {
     char dec[1000] = "";
     int n;
     
-    strcpy(msg, "SecurityLaboratory");
+    strcpy(msg, "jayaabirami");
     printf("Simulation of Hill Cipher\n");
     printf("Input message : %s\n", msg);
     
@@ -122,7 +122,7 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="596" height="307" alt="image" src="https://github.com/user-attachments/assets/bb9a60a6-b870-42b8-ac0d-9e5d3fd2e116" />
+<img width="1618" height="814" alt="image" src="https://github.com/user-attachments/assets/aa9bc214-477a-40d3-8a35-8dac3edc806e" />
 
 ## RESULT
 The program is executed successfully
